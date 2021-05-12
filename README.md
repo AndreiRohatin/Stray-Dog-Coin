@@ -1,23 +1,23 @@
-Bitcoin Core integration/staging tree
+Stray Dog Coin Core integration/staging tree
 =====================================
 
 https://bitcoincore.org
 
-For an immediately usable, binary version of the Bitcoin Core software, see
+For an immediately usable, binary version of the Stray Dog Coin Core software, see
 https://bitcoincore.org/en/download/.
 
-Further information about Bitcoin Core is available in the [doc folder](/doc).
+Further information about Stray Dog Coin Core is available in the [doc folder](/doc).
 
-What is Bitcoin?
+What is Stray Dog Coin?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+Stray Dog Coin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Stray Dog Coin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
+out collectively by the network. Stray Dog Coin Core is the name of open source
 software which enables the use of this currency.
 
-For more information read the original Bitcoin whitepaper.
+For more information read the original Stray Dog Coin whitepaper.
 
 License
 -------
@@ -30,7 +30,7 @@ Development Process
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
 completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly from release branches to indicate new official, stable release versions of Bitcoin Core.
+regularly from release branches to indicate new official, stable release versions of Stray Dog Coin Core.
 
 The https://github.com/bitcoin-core/gui repository is used exclusively for the
 development of the GUI. Its master branch is identical in all monotree
